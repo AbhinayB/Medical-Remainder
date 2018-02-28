@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Medical Remainder</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_notes">Delete all Alerts</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">All Alerts Erased</string>
+    <string name="title_activity_editor">Detail Editor</string>
+    <string name="picktime">Select Time</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_note">New Medical Alert</string>
+    <string name="note_updated">Alert updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Alert deleted</string>
+    <string name="note">Medical</string>
+    <string name="enter_Description_here">Enter Description Here</string>
+    <string name="enter_others_here">Enter Other Details Here</string>
+    <string name="startdate">Date to Start Alerts</string>
+    <string name="enddate">Date to End Alerts</string>
+    <string name="timertext">00:00</string>
+</resources>
